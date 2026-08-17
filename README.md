@@ -46,13 +46,13 @@ npm run dev
 ## Screenshots
 
 ### Home
-![Sagar CareWell Home](./screenshots/home.png)
+![Sagar CareWell Home](./screenshots/Main.png)
 
 ### Patient App
-![Patient App](./screenshots/patient.png)
+![Patient App](./screenshots/PatientApp.png)
 
 ### Provider Dashboard
-![Provider Dashboard](./screenshots/provider.png)
+![Provider Dashboard](./screenshots/ProviderDashboard.png)
 
 ### Admin Portal
-![Admin Portal](./screenshots/admin.png)
+![Admin Portal](./screenshots/AdminPortal.png)
