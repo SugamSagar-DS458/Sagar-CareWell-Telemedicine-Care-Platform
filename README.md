@@ -46,13 +46,13 @@ npm run dev
 ## Screenshots
 
 ### Home
-![Sagar CareWell Home](./screenshots/Main.png)
+![Sagar CareWell Home](https://github.com/SugamSagar-DS458/Sagar-CareWell-Telemedicine-Care-Platform/blob/main/Main.png)
 
 ### Patient App
-![Patient App](./screenshots/PatientApp.png)
+![Patient App](https://github.com/SugamSagar-DS458/Sagar-CareWell-Telemedicine-Care-Platform/blob/main/PatientApp.png))
 
 ### Provider Dashboard
-![Provider Dashboard](./screenshots/ProviderDashboard.png)
+![Provider Dashboard](https://github.com/SugamSagar-DS458/Sagar-CareWell-Telemedicine-Care-Platform/blob/main/ProviderDashboard.png)
 
 ### Admin Portal
-![Admin Portal](./screenshots/AdminPortal.png)
+![Admin Portal](https://github.com/SugamSagar-DS458/Sagar-CareWell-Telemedicine-Care-Platform/blob/main/AdminPortal.png)
